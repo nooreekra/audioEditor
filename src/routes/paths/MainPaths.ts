@@ -18,4 +18,12 @@ export namespace PathsMap {
     export const edit = {
         get: () => '/edit',
     }
+
+    export const feature = {
+        get: () => '/feature',
+    }
+
+    export const help = {
+        get: () => '/help',
+    }
 }
